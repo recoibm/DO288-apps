@@ -12,7 +12,7 @@ pipeline {
     environment {
         DEV_PROJECT = "misznu-books-dev"
         STAGE_PROJECT = "misznu-books-stage"
-        APP_GIT_URL = "https://github.com/misznu/DO288-apps"
+        APP_GIT_URL = "https://github.com/recoibm/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
